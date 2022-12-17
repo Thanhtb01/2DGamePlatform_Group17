@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: a869d9c51e66c9345be9c755cd5ff797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7635210086741493988
+    second: NicePng_chest-png_1016940_0
+  - first:
+      213: -5617072961888665724
+    second: NicePng_chest-png_1016940_1
+  - first:
+      213: -3608688937407384724
+    second: NicePng_chest-png_1016940_2
+  - first:
+      213: 7709404716292377125
+    second: NicePng_chest-png_1016940_3
+  - first:
+      213: 7459703039267476889
+    second: NicePng_chest-png_1016940_4
+  - first:
+      213: 2842267489509600302
+    second: NicePng_chest-png_1016940_5
+  - first:
+      213: 6617665094889245067
+    second: NicePng_chest-png_1016940_6
+  - first:
+      213: 4652085803045877169
+    second: NicePng_chest-png_1016940_7
+  - first:
+      213: 2609907678670521901
+    second: NicePng_chest-png_1016940_8
+  - first:
+      213: 2855033471738911706
+    second: NicePng_chest-png_1016940_9
+  - first:
+      213: -7204564865896257472
+    second: NicePng_chest-png_1016940_10
+  - first:
+      213: -9053701409316916788
+    second: NicePng_chest-png_1016940_11
+  - first:
+      213: -5597907949432427162
+    second: NicePng_chest-png_1016940_12
+  - first:
+      213: -8908845199092196495
+    second: NicePng_chest-png_1016940_13
+  - first:
+      213: -921713063649516801
+    second: NicePng_chest-png_1016940_14
+  - first:
+      213: 5902505017690196551
+    second: NicePng_chest-png_1016940_15
+  - first:
+      213: 1741832571582915318
+    second: NicePng_chest-png_1016940_16
+  - first:
+      213: -2953830755081248177
+    second: NicePng_chest-png_1016940_17
+  - first:
+      213: -1692339748007389993
+    second: NicePng_chest-png_1016940_18
+  - first:
+      213: -2266450421160788834
+    second: NicePng_chest-png_1016940_19
+  - first:
+      213: -3816082658898259718
+    second: NicePng_chest-png_1016940_20
+  - first:
+      213: -2453672958997766533
+    second: NicePng_chest-png_1016940_21
+  - first:
+      213: 8530225278042262720
+    second: NicePng_chest-png_1016940_22
+  - first:
+      213: -1605309854023179227
+    second: NicePng_chest-png_1016940_23
+  - first:
+      213: -7858269517376901860
+    second: NicePng_chest-png_1016940_24
+  - first:
+      213: 5498479732679230599
+    second: NicePng_chest-png_1016940_25
+  - first:
+      213: 283524816040799353
+    second: NicePng_chest-png_1016940_26
+  - first:
+      213: 5535039540160118819
+    second: NicePng_chest-png_1016940_27
+  - first:
+      213: 9021935719789736563
+    second: NicePng_chest-png_1016940_28
+  - first:
+      213: -8769154069224068026
+    second: NicePng_chest-png_1016940_29
+  - first:
+      213: -3661542200065638799
+    second: NicePng_chest-png_1016940_30
+  - first:
+      213: -7885854624482993736
+    second: NicePng_chest-png_1016940_31
+  - first:
+      213: -5432538732399149044
+    second: NicePng_chest-png_1016940_32
+  - first:
+      213: -1674550889829798586
+    second: NicePng_chest-png_1016940_33
+  - first:
+      213: -4686102483839558983
+    second: NicePng_chest-png_1016940_34
+  - first:
+      213: 3846335328681262828
+    second: NicePng_chest-png_1016940_35
+  - first:
+      213: 7186757411470148577
+    second: NicePng_chest-png_1016940_36
+  - first:
+      213: 8225790308882183114
+    second: NicePng_chest-png_1016940_37
+  - first:
+      213: 8594392003303130088
+    second: NicePng_chest-png_1016940_38
+  - first:
+      213: -4040771651321504362
+    second: NicePng_chest-png_1016940_39
+  - first:
+      213: 2221097761136825908
+    second: NicePng_chest-png_1016940_40
+  - first:
+      213: -8813384971009504750
+    second: NicePng_chest-png_1016940_41
+  - first:
+      213: -4944908490716145054
+    second: NicePng_chest-png_1016940_42
+  - first:
+      213: 228918240913867927
+    second: NicePng_chest-png_1016940_43
+  - first:
+      213: -2489590984968657267
+    second: NicePng_chest-png_1016940_44
+  - first:
+      213: 6515727895865402650
+    second: NicePng_chest-png_1016940_45
+  - first:
+      213: -7020047143421000393
+    second: NicePng_chest-png_1016940_46
+  - first:
+      213: -1308627902191978005
+    second: NicePng_chest-png_1016940_47
+  - first:
+      213: -796595246570183102
+    second: NicePng_chest-png_1016940_48
+  - first:
+      213: 7989650169004401588
+    second: NicePng_chest-png_1016940_49
+  - first:
+      213: 8077806613595892393
+    second: NicePng_chest-png_1016940_50
+  - first:
+      213: 5330493821777065291
+    second: NicePng_chest-png_1016940_51
+  - first:
+      213: -5135014678980517219
+    second: NicePng_chest-png_1016940_52
+  - first:
+      213: 5117850882633565511
+    second: NicePng_chest-png_1016940_53
+  - first:
+      213: -3941949745577987801
+    second: NicePng_chest-png_1016940_54
+  - first:
+      213: -6952509112594238981
+    second: NicePng_chest-png_1016940_55
+  - first:
+      213: 2171500519386514079
+    second: NicePng_chest-png_1016940_56
+  - first:
+      213: 8738376387635716289
+    second: NicePng_chest-png_1016940_57
+  - first:
+      213: -7486508078566591156
+    second: NicePng_chest-png_1016940_58
+  - first:
+      213: 8274141415940097905
+    second: NicePng_chest-png_1016940_59
+  - first:
+      213: -8476399987372550096
+    second: NicePng_chest-png_1016940_60
+  - first:
+      213: 897550772420108686
+    second: NicePng_chest-png_1016940_61
+  - first:
+      213: -7556734523515389492
+    second: NicePng_chest-png_1016940_62
+  - first:
+      213: -5846149603332615401
+    second: NicePng_chest-png_1016940_63
+  - first:
+      213: 7645644676420820002
+    second: NicePng_chest-png_1016940_64
+  - first:
+      213: 6747329292231168927
+    second: NicePng_chest-png_1016940_65
+  - first:
+      213: -5198974282294999202
+    second: NicePng_chest-png_1016940_66
+  - first:
+      213: 1234093950950569151
+    second: NicePng_chest-png_1016940_67
+  - first:
+      213: 5633369669430432690
+    second: NicePng_chest-png_1016940_68
+  - first:
+      213: -8117911442562574610
+    second: NicePng_chest-png_1016940_69
+  - first:
+      213: 5235292064890979666
+    second: NicePng_chest-png_1016940_70
+  - first:
+      213: 6524329199727708100
+    second: NicePng_chest-png_1016940_71
+  - first:
+      213: -3861462486325862372
+    second: NicePng_chest-png_1016940_72
+  - first:
+      213: -506282535223745069
+    second: NicePng_chest-png_1016940_73
+  - first:
+      213: -8274851553295423161
+    second: NicePng_chest-png_1016940_74
+  - first:
+      213: -167351086348864692
+    second: NicePng_chest-png_1016940_75
+  - first:
+      213: 6609345013752360821
+    second: NicePng_chest-png_1016940_76
+  - first:
+      213: 7716533056012808291
+    second: NicePng_chest-png_1016940_77
+  - first:
+      213: 1888836775267369862
+    second: NicePng_chest-png_1016940_78
+  - first:
+      213: -3238345875923529482
+    second: NicePng_chest-png_1016940_79
+  - first:
+      213: -623736533878493181
+    second: NicePng_chest-png_1016940_80
+  - first:
+      213: 9083283108529063744
+    second: NicePng_chest-png_1016940_81
+  - first:
+      213: 2551692525259878856
+    second: NicePng_chest-png_1016940_82
+  - first:
+      213: 6658930806316729306
+    second: NicePng_chest-png_1016940_83
+  - first:
+      213: 2997368108365782072
+    second: NicePng_chest-png_1016940_84
+  - first:
+      213: -4904925512496341039
+    second: NicePng_chest-png_1016940_85
+  - first:
+      213: 817604552652893026
+    second: NicePng_chest-png_1016940_86
+  - first:
+      213: -6196569360586303976
+    second: NicePng_chest-png_1016940_87
+  - first:
+      213: 5050285346507947985
+    second: NicePng_chest-png_1016940_88
+  - first:
+      213: 5072307770292262263
+    second: NicePng_chest-png_1016940_89
+  - first:
+      213: 3797631380591679811
+    second: NicePng_chest-png_1016940_90
+  - first:
+      213: -3079179653644541299
+    second: NicePng_chest-png_1016940_91
+  - first:
+      213: -2506875621658278424
+    second: NicePng_chest-png_1016940_92
+  - first:
+      213: -87563565040213912
+    second: NicePng_chest-png_1016940_93
+  - first:
+      213: 3316534165882691426
+    second: NicePng_chest-png_1016940_94
+  - first:
+      213: 9019569846134250507
+    second: NicePng_chest-png_1016940_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c4bdee17b5f960800000000000000
+      internalID: 7635210086741493988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fbc25d6e52c02b0800000000000000
+      internalID: -5617072961888665724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6373f4f78c5bedc0800000000000000
+      internalID: -3608688937407384724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a04584ebe4dfa60800000000000000
+      internalID: 7709404716292377125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99590791460368760800000000000000
+      internalID: 7459703039267476889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c6cd40933c17720800000000000000
+      internalID: 2842267489509600302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b890067875ba6db50800000000000000
+      internalID: 6617665094889245067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ff2bd3678f8040800000000000000
+      internalID: 4652085803045877169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2688b3b431483420800000000000000
+      internalID: 2609907678670521901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb19d0e0dd1f9720800000000000000
+      internalID: 2855033471738911706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486ef60d6e340c90800000000000000
+      internalID: -7204564865896257472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1363b698aca5280800000000000000
+      internalID: -9053701409316916788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66daeb4016c3052b0800000000000000
+      internalID: -5597907949432427162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5a251e7c6d5480800000000000000
+      internalID: -8908845199092196495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff265502ada6533f0800000000000000
+      internalID: -921713063649516801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 336
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a82607a09e9e150800000000000000
+      internalID: 5902505017690196551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a767ce7b3c2810800000000000000
+      internalID: 1741832571582915318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4222cc0492e107d0800000000000000
+      internalID: -2953830755081248177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4deb037f99388e0800000000000000
+      internalID: -1692339748007389993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3da1a953fb80e0800000000000000
+      internalID: -2266450421160788834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af057da4a0d8a0bc0800000000000000
+      internalID: -3816082658898259718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed4f3a17dc2fdd0800000000000000
+      internalID: -2453672958997766533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc44cff1b2716670800000000000000
+      internalID: 8530225278042262720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a38c613bc8b9e0800000000000000
+      internalID: -1605309854023179227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d28734281d1f290800000000000000
+      internalID: -7858269517376901860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c7074f268e4c40800000000000000
+      internalID: 5498479732679230599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cae1961584fe300800000000000000
+      internalID: 283524816040799353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204cf8c22960dc40800000000000000
+      internalID: 5535039540160118819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b974acba543d70800000000000000
+      internalID: 9021935719789736563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6a33c5d4bd4680800000000000000
+      internalID: -8769154069224068026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3cfac4c69f2dc0800000000000000
+      internalID: -3661542200065638799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d1550001df8290800000000000000
+      internalID: -7885854624482993736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004cc24ecebb94b0800000000000000
+      internalID: -5432538732399149044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d616d76dcc2c8e0800000000000000
+      internalID: -1674550889829798586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9badaa57e9e97feb0800000000000000
+      internalID: -4686102483839558983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef4194a9de06530800000000000000
+      internalID: 3846335328681262828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38595e9cd7cb360800000000000000
+      internalID: 7186757411470148577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f5cd24b0e72270800000000000000
+      internalID: 8225790308882183114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34751fdf9654770800000000000000
+      internalID: 8594392003303130088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d5380979b4ce7c0800000000000000
+      internalID: -4040771651321504362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d9f755ace2de10800000000000000
+      internalID: 2221097761136825908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a463e601190b580800000000000000
+      internalID: -8813384971009504750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1d0c4de7206bb0800000000000000
+      internalID: -4944908490716145054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_43
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79447406de74d2300800000000000000
+      internalID: 228918240913867927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ade88032337dd0800000000000000
+      internalID: -2489590984968657267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 193
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15292edff38c6a50800000000000000
+      internalID: 6515727895865402650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73545ed1158c39e90800000000000000
+      internalID: -7020047143421000393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_47
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 193
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9beaa3bd1d6dde0800000000000000
+      internalID: -1308627902191978005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466b6208dce1f4f0800000000000000
+      internalID: -796595246570183102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a52b6f70f0ee60800000000000000
+      internalID: 7989650169004401588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2fa721522a1070800000000000000
+      internalID: 8077806613595892393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45bf6483e7b9f940800000000000000
+      internalID: 5330493821777065291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9223fe1b53ccb8b0800000000000000
+      internalID: -5135014678980517219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7450bc02342460740800000000000000
+      internalID: 5117850882633565511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 144
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f16c77916b49c0800000000000000
+      internalID: -3941949745577987801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 144
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1772e4cc9b38f90800000000000000
+      internalID: -6952509112594238981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 144
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920c9f9738b22e10800000000000000
+      internalID: 2171500519386514079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 159
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c020b2d603f44970800000000000000
+      internalID: 8738376387635716289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_58
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 159
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4532f851949a1890800000000000000
+      internalID: -7486508078566591156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 159
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177057e87c7a3d270800000000000000
+      internalID: 8274141415940097905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03898821f17cd5a80800000000000000
+      internalID: -8476399987372550096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e816afd0cadb47c00800000000000000
+      internalID: 897550772420108686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93fe7fcf5112790800000000000000
+      internalID: -7556734523515389492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139195f8ed4edea0800000000000000
+      internalID: -5846149603332615401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5be82359ca1a60800000000000000
+      internalID: 7645644676420820002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d60e0e3453ad50800000000000000
+      internalID: 6747329292231168927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574a638f6889d7b0800000000000000
+      internalID: -5198974282294999202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4fddde8e1602110800000000000000
+      internalID: 1234093950950569151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35cd21edfbd2e40800000000000000
+      internalID: 5633369669430432690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 111
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69af3bd82675f80800000000000000
+      internalID: -8117911442562574610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 111
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558f3f256e77a840800000000000000
+      internalID: 5235292064890979666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_71
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 111
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78a7bf6d21b8a50800000000000000
+      internalID: 6524329199727708100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ec0dd354596ac0800000000000000
+      internalID: -3861462486325862372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5210477b259f8f0800000000000000
+      internalID: -506282535223745069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749acb4ba52d92d80800000000000000
+      internalID: -8274851553295423161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437669d2137dadf0800000000000000
+      internalID: -167351086348864692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f65bea54c19bb50800000000000000
+      internalID: 6609345013752360821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f3353ee1a61b60800000000000000
+      internalID: 7716533056012808291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68381842a0f763a10800000000000000
+      internalID: 1888836775267369862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 48
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01ab555951f03d0800000000000000
+      internalID: -3238345875923529482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 48
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003db85dea0857f0800000000000000
+      internalID: -623736533878493181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_81
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 63
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474e26acdd4e0e70800000000000000
+      internalID: 9083283108529063744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 63
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1722015de696320800000000000000
+      internalID: 2551692525259878856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30a6ea946496c50800000000000000
+      internalID: 6658930806316729306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1a30f96ac89920800000000000000
+      internalID: 2997368108365782072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df97e9db343eebb0800000000000000
+      internalID: -4904925512496341039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_86
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b2e9f3207b85b00800000000000000
+      internalID: 817604552652893026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161f245ffc510aa0800000000000000
+      internalID: -6196569360586303976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df77fcd3c7361640800000000000000
+      internalID: 5050285346507947985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77559b7fa05746640800000000000000
+      internalID: 5072307770292262263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_90
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491b04be95e3b430800000000000000
+      internalID: 3797631380591679811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8228e05b6e8445d0800000000000000
+      internalID: -3079179653644541299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_92
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5c8f277e9c53dd0800000000000000
+      internalID: -2506875621658278424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_93
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 15
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e28ac669e8cef0800000000000000
+      internalID: -87563565040213912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 15
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f52ea8042b60e20800000000000000
+      internalID: 3316534165882691426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_chest-png_1016940_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 15
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c18a1ccf2fb2d70800000000000000
+      internalID: 9019569846134250507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
