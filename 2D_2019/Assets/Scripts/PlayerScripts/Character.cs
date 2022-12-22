@@ -2,22 +2,33 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class Character : MonoBehaviour
 {
-    [SerializeField] int maxHealth = 10;
+    public int maxHealth = 10;
     private int currentHealth;
     private int coin = 0;
     public int armor = 0;
+    public int damageIncrease = 0;
     [SerializeField] ExprienceBar expBar;
     [SerializeField] HealthBar healthBar;
-    LoseGame loseMenu;
+    [SerializeField] GameObject loseGameUI;
+    CinemachineImpulseSource impulseSource;
+    private void Start()
+    {
+        //loseGameUI.SetActive(false);
+        impulseSource = GetComponent<CinemachineImpulseSource>();
+    }
     private void Awake()
     {
         healthBar.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         expBar.SetCoinText(coin);
-        //loseMenu = new LoseGame();
+    }
+    private void Update()
+    {
+        
     }
     public void getCoins(int amount)
     {
@@ -27,9 +38,9 @@ public class Character : MonoBehaviour
     public void AddHealth(int amount)
     {
         currentHealth += amount;
-        if (currentHealth > 10)
+        if (currentHealth > maxHealth)
         {
-            currentHealth = 10;
+            currentHealth = maxHealth;
         }
         healthBar.SetHealth(currentHealth);
     }
@@ -38,11 +49,12 @@ public class Character : MonoBehaviour
         ApplyArmor(ref damage);
         if (checkDie())
         {
-            //loseMenu.Lose();
-            Debug.Log("LOST");
+            loseGameUI.SetActive(true);
+            Time.timeScale = 0;
             return;
         }
         currentHealth -= damage;
+        impulseSource.GenerateImpulse();
         healthBar.SetHealth(currentHealth);
     }
 
@@ -54,7 +66,7 @@ public class Character : MonoBehaviour
 
     public bool checkDie()
     {
-        if (currentHealth < 1)
+        if (currentHealth <= 1)
         {
             return true;
         }

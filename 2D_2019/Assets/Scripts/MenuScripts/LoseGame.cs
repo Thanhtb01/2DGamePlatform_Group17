@@ -9,7 +9,11 @@ public class LoseGame : MonoBehaviour
 {
     //public static bool gameIsLose = false;
     [SerializeField] GameObject loseGameUI;
-    
+    private void Start()
+    {
+        loseGameUI.SetActive(false);
+    }
+
     public void Lose()
     {
         loseGameUI.SetActive(true);
@@ -20,6 +24,6 @@ public class LoseGame : MonoBehaviour
     public void RestartGame()
     {
         SceneManager.LoadScene("Playgame");
-
+        Time.timeScale = 1f;
     }
 }

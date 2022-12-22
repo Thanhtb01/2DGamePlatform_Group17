@@ -128,6 +128,7 @@ MonoBehaviour:
   - {fileID: 8341718945055421765, guid: 604483f89bc1da1439bb57d08a1644b4, type: 3}
   - {fileID: 4199629488238572747, guid: b543eb547a5c32f40989942f92d2029f, type: 3}
   - {fileID: 2017401140887618072, guid: 2ee374a9510ec114c9240072d0fe7a91, type: 3}
+  - {fileID: 6790400227682939804, guid: 3334ff7758f9a754cbd9a5f61097f9f1, type: 3}
   chance: 1
   hitEffect: {fileID: 1960193004556571592, guid: bfedcbf6705bb434ab347dc2affd6425,
     type: 3}

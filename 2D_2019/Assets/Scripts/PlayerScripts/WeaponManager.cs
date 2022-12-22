@@ -1,18 +1,27 @@
-﻿    using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class WeaponManager : MonoBehaviour
 {
-    [SerializeField] Transform weaponObjectContainer;
-    [SerializeField] WeaponData startingWeapon;
+    [SerializeField] GameObject [] skillSpecials;
+    private Level lv;
     private void Start()
     {
-        AddWeapon(startingWeapon);
+        lv = GetComponent<Level>();
+        foreach(GameObject skill in skillSpecials)
+        {
+            skill.SetActive(false);
+        }
     }
-    public void AddWeapon(WeaponData weaponData)
+    private void Update()
     {
-        GameObject weaponGameObject = Instantiate(weaponData.weaponBasePrefab, weaponObjectContainer);
-
+        for(int i = 1; i <= skillSpecials.Length; i++)
+        {
+            if (lv.level > i)
+            {
+                skillSpecials[i-1].SetActive(true);
+            }
+        }
     }
 }

@@ -6,7 +6,6 @@ public class PlayerLife : MonoBehaviour
 {
     private Character character;
 
-    [SerializeField] int damage = 1;
 
     private bool hit = true;
     private Animator anim;

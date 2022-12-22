@@ -31,7 +31,7 @@ PrefabInstance:
     - target: {fileID: 4092301973753249660, guid: 14e19bc0126672d47b7c81cf9d4d13fa,
         type: 3}
       propertyPath: timeDispose
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 4103959366086579282, guid: 14e19bc0126672d47b7c81cf9d4d13fa,
         type: 3}

@@ -27,11 +27,25 @@ public class EnemyFollower : MonoBehaviour
         EnemyRBs.Remove(rb);
     }
 
+    public void SetSpeedOnTime()
+    {
+        if(TimeController.instance.elapsedTime > 120)
+        {
+            if(speed < 1.2f)
+            speed = 1.2f;
+        }
+        if (TimeController.instance.elapsedTime > 180)
+        {
+            if (speed < 1.5f)
+                speed = 1.5f;
+        }
+    }
 
     // Update is called once per frame
     void Update()
     {
-        if(Vector2.Distance(transform.position,playerPos.position) > 0.3f)
+        SetSpeedOnTime();
+        if (Vector2.Distance(transform.position,playerPos.position) > 0.3f)
             transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
         if (transform.position.x > playerPos.position.x)
         {

@@ -8,6 +8,7 @@ public class Bullet : MonoBehaviour
     [SerializeField] int damage = 10;
     private EffectShoot effect;
     [SerializeField] bool damageActive = false;
+    
     private void Awake()
     {
         effect = GetComponent<EffectShoot>();
@@ -34,7 +35,9 @@ public class Bullet : MonoBehaviour
     }
     private void ForceFieldActive(Collider2D col)
     {
-        col.GetComponent<EnemyHealth>().health -= damage;
+        col.GetComponent<EnemyHealth>().health -= (damage + PlayerController.instance.increaseDamage());
+        Debug.Log(damage + PlayerController.instance.increaseDamage());
+
         col.GetComponent<Animator>().SetTrigger("Hurt");
     }
 }

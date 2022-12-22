@@ -31,7 +31,7 @@ public class forceFieldScript : MonoBehaviour
     
     private void ForceFieldActive(Collider2D col)
     {
-        col.GetComponent<EnemyHealth>().health -= damage;
+        col.GetComponent<EnemyHealth>().health -= (damage + PlayerController.instance.increaseDamage());
         col.GetComponent<Animator>().SetTrigger("Hurt");
     }
 }
