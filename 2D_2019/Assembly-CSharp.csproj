@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\ControllerScripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\ControllerScripts\TimeController.cs" />
     <Compile Include="Assets\Scripts\DisposeObject.cs" />
+    <Compile Include="Assets\Scripts\EnemyScripts\BossSpawner.cs" />
     <Compile Include="Assets\Scripts\EnemyScripts\EnemyFollower.cs" />
     <Compile Include="Assets\Scripts\EnemyScripts\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\EnemyScripts\EnemySpawner.cs" />

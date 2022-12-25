@@ -6,10 +6,13 @@ public class PlayerController : MonoBehaviour
 {
     public static PlayerController instance;
     [SerializeField] GameObject player;
-    
     private void Awake()
     {
         instance = this;
+    }
+    public int getCoin()
+    {
+        return player.GetComponent<Character>().coin;
     }
     public int increaseDamage()
     {
@@ -32,4 +35,8 @@ public class PlayerController : MonoBehaviour
         player.GetComponent<Character>().maxHealth += 2;
         player.GetComponent<Character>().AddHealth(2);
     }
+    public void DecreaseCoin(int price)
+    {
+        player.GetComponent<Character>().coin -= price;
+        }
 }

@@ -145,7 +145,7 @@ GameObject:
   - component: {fileID: 8771546340155253733}
   - component: {fileID: 8771546340155253738}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: CoinText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Select
+  m_text: Coins
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -623,6 +623,7 @@ MonoBehaviour:
   optionUpdate: {fileID: 11400000, guid: 307d363fc17a3354f9b71fba042d6eb8, type: 2}
   nameOpt: {fileID: 8771546339767802778}
   detailOpt: {fileID: 8771546340660873057}
+  coinOpt: {fileID: 8771546340155253738}
 --- !u!114 &7373037363077498665
 MonoBehaviour:
   m_ObjectHideFlags: 0

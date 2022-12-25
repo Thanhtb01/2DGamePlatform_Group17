@@ -8,4 +8,5 @@ public class OptionUpdate : ScriptableObject
     // Start is called before the first frame update
     public string nameOp;
     public string detail;
+    public int coin;
 }

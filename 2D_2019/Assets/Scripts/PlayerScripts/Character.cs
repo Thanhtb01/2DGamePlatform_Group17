@@ -8,7 +8,7 @@ public class Character : MonoBehaviour
 {
     public int maxHealth = 10;
     private int currentHealth;
-    private int coin = 0;
+    public int coin = 0;
     public int armor = 0;
     public int damageIncrease = 0;
     [SerializeField] ExprienceBar expBar;
@@ -63,7 +63,6 @@ public class Character : MonoBehaviour
         damage -= armor;
         if(damage < 0) { damage = 0; }
     }
-
     public bool checkDie()
     {
         if (currentHealth <= 1)

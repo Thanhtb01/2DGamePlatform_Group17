@@ -26,9 +26,13 @@ public class EnemySpawner : MonoBehaviour
         {
             Instantiate(enemies[Random.Range(0, 4)], spawnPos, Quaternion.identity);
         }
-        else
+        else 
         {
-            Instantiate(enemies[Random.Range(0, enemies.Length)], spawnPos, Quaternion.identity);
+            Instantiate(enemies[Random.Range(0, 5)], spawnPos, Quaternion.identity);
+        }
+        if((TimeController.instance.elapsedTime < 299) && (TimeController.instance.elapsedTime > 300))
+        {
+            Instantiate(enemies[enemies.Length-1], spawnPos, Quaternion.identity);
         }
         yield return new WaitForSeconds(time);
         StartCoroutine(SpawnAnEnemy());
