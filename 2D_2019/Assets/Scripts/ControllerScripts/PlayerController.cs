@@ -5,7 +5,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public static PlayerController instance;
-    [SerializeField] GameObject player;
+    public GameObject player;
+    [SerializeField] ExprienceBar expBar;
+
     private void Awake()
     {
         instance = this;
@@ -38,5 +40,10 @@ public class PlayerController : MonoBehaviour
     public void DecreaseCoin(int price)
     {
         player.GetComponent<Character>().coin -= price;
-        }
+        expBar.SetCoinText(player.GetComponent<Character>().coin);
+    }
+    public void IncreaseSpeedAtk()
+    {
+        player.GetComponent<Shooting>().timeToAttack /= 1.1f;
+    }
 }

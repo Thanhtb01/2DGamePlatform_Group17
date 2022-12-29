@@ -23,12 +23,16 @@ public class LevelUpController : MonoBehaviour
     public void ClosePanel()
     {
         lvPanel.SetActive(false);
+
         Time.timeScale = 1f;
     }
     public void OpenPanel()
     {
         lvPanel.SetActive(true);
         Time.timeScale = 0f;
-}
-    
+    }
+    public void setTextChooseFail()
+    {
+        lvPanel.GetComponent<LevelUpPanner>().chooseTxt.text = "You don't have enough coins";
+    }
 }

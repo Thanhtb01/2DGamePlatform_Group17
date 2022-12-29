@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class UpHealth : MonoBehaviour
 {
+    public bool updated = false;
+
     public void acction()
     {
-        //if (PlayerController.instance.getCoin() > int.Parse(gameObject.GetComponent<UpdateLv>().coinOpt.ToString()))
-        //{
-        //    PlayerController.instance.IncreaseHealth();
-        //    PlayerController.instance.DecreaseCoin(int.Parse(gameObject.GetComponent<UpdateLv>().coinOpt.ToString()));
-        //}
-        PlayerController.instance.IncreaseHealth();
+        if (PlayerController.instance.getCoin() >= gameObject.GetComponent<UpdateLv>().optionUpdate.coin)
+        {
+            PlayerController.instance.IncreaseHealth();
+            PlayerController.instance.DecreaseCoin(gameObject.GetComponent<UpdateLv>().optionUpdate.coin);
+            updated = true;
+        }
+        //PlayerController.instance.IncreaseHealth();
 
         LevelUpController.instance.ClosePanel();
 

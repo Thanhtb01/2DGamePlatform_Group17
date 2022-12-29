@@ -4,9 +4,16 @@ using UnityEngine;
 
 public class UpSpeed : MonoBehaviour
 {
+    public bool updated = false;
+
     public void acction()
     {
-        PlayerController.instance.IncreaseSpeed();
+        if (PlayerController.instance.getCoin() >= gameObject.GetComponent<UpdateLv>().optionUpdate.coin)
+        {
+            PlayerController.instance.IncreaseSpeed();
+            PlayerController.instance.DecreaseCoin(gameObject.GetComponent<UpdateLv>().optionUpdate.coin);
+            updated = true;
+        }
 
         LevelUpController.instance.ClosePanel();
 

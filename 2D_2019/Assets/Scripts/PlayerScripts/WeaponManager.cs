@@ -18,7 +18,7 @@ public class WeaponManager : MonoBehaviour
     {
         for(int i = 1; i <= skillSpecials.Length; i++)
         {
-            if (lv.level > i)
+            if (lv.level > 3*i)
             {
                 skillSpecials[i-1].SetActive(true);
             }

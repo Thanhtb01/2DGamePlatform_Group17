@@ -5,7 +5,7 @@ using UnityEngine;
 [CreateAssetMenu]
 public class Item : ScriptableObject
 {
-    public string name;
+    public string nameItem;
     public int armor;
     public void Equip(Character character)
     {

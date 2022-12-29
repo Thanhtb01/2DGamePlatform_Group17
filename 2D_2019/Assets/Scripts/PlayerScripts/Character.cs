@@ -19,16 +19,9 @@ public class Character : MonoBehaviour
     {
         //loseGameUI.SetActive(false);
         impulseSource = GetComponent<CinemachineImpulseSource>();
-    }
-    private void Awake()
-    {
         healthBar.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         expBar.SetCoinText(coin);
-    }
-    private void Update()
-    {
-        
     }
     public void getCoins(int amount)
     {

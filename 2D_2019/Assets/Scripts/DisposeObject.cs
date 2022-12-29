@@ -21,7 +21,7 @@ public class DisposeObject : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject, 10f);
+            Destroy(gameObject, timeDispose);
         }
     }
 }

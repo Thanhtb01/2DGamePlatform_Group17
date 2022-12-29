@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] float speed = 3f;
     [SerializeField] int damage = 10;
     private EffectShoot effect;
     [SerializeField] bool damageActive = false;
@@ -36,7 +35,6 @@ public class Bullet : MonoBehaviour
     private void ForceFieldActive(Collider2D col)
     {
         col.GetComponent<EnemyHealth>().health -= (damage + PlayerController.instance.increaseDamage());
-        Debug.Log(damage + PlayerController.instance.increaseDamage());
 
         col.GetComponent<Animator>().SetTrigger("Hurt");
     }

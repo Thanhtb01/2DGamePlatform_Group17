@@ -99,6 +99,7 @@
     <Compile Include="Assets\Scripts\LevelScripts\UpArmor.cs" />
     <Compile Include="Assets\Scripts\LevelScripts\UpDamage.cs" />
     <Compile Include="Assets\Scripts\LevelScripts\UpHealth.cs" />
+    <Compile Include="Assets\Scripts\LevelScripts\UpSpdAtk.cs" />
     <Compile Include="Assets\Scripts\LevelScripts\UpSpeed.cs" />
     <Compile Include="Assets\Scripts\LevelScripts\UpdateLv.cs" />
     <Compile Include="Assets\Scripts\MenuScripts\LoseGame.cs" />
@@ -120,7 +121,6 @@
     <Compile Include="Assets\Scripts\PlayerScripts\Skill.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\WeaponData.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\WeaponManager.cs" />
-    <Compile Include="Assets\Scripts\TileAutomata.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />

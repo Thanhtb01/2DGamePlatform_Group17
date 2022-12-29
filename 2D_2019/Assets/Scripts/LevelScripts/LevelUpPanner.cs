@@ -8,7 +8,8 @@ public class LevelUpPanner : MonoBehaviour
     [SerializeField] Transform update2;
     [SerializeField] Transform update3;
     [SerializeField] GameObject[] updateOpts;
-    
+    public TMPro.TextMeshProUGUI chooseTxt;
+
     private void Update()
     {
         if(LevelUpController.instance.timer >= 3)
@@ -26,5 +27,4 @@ public class LevelUpPanner : MonoBehaviour
         upd1.transform.SetParent(update1.transform, false);
         LevelUpController.instance.timer = 0;
     }
-
 }
