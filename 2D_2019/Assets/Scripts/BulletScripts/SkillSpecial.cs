@@ -9,7 +9,7 @@ public class SkillSpecial : MonoBehaviour
     [SerializeField] GameObject bulletPrefab;
     [SerializeField] float bulletForce = 20f;
     [SerializeField] float destroyAfter = 1f;
-    [SerializeField] float timeToAttack = 1f;
+    public float timeToAttack = 1f;
     private float timer = 0;
 
     // Update is called once per frame
@@ -33,6 +33,7 @@ public class SkillSpecial : MonoBehaviour
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
         rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
+        FindObjectOfType<AudioManager>().Play("Fire");
         Destroy(bullet, destroyAfter);
     }
 

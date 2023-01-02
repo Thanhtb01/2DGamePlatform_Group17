@@ -6,14 +6,9 @@ public class PassiveItems : MonoBehaviour
 {
     [SerializeField] List<Item> items;
     Character character;
-    [SerializeField] Item armorTest;
     private void Awake()
     {
         character = GetComponent<Character>();
-    }
-    private void Start()
-    {
-        Equip(armorTest);
     }
     public void Equip(Item itemToEquip)
     {

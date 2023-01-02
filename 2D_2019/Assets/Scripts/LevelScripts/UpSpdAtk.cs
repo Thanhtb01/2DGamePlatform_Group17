@@ -14,9 +14,17 @@ public class UpSpdAtk : MonoBehaviour
             PlayerController.instance.DecreaseCoin(gameObject.GetComponent<UpdateLv>().optionUpdate.coin);
             updated = true;
         }
-        //PlayerController.instance.IncreaseHealth();
-
-        LevelUpController.instance.ClosePanel();
-
+        if (updated == true)
+        {
+            LevelUpController.instance.ClosePanel();
+        }
+        else
+        {
+            LevelUpController.instance.setTextChooseFail();
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                LevelUpController.instance.ClosePanel();
+            }
+        }
     }
 }

@@ -14,7 +14,7 @@ public class BossSpawner : MonoBehaviour
         {
             StartCoroutine(SpawnABoss());
         }
-        TimeController.instance.BeginTimer();
+        //TimeController.instance.BeginTimer();
     }
     private void Update()
     {

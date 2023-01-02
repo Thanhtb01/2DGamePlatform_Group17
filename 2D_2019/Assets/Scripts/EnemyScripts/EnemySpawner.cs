@@ -10,7 +10,7 @@ public class EnemySpawner : MonoBehaviour
     void Start()
     {
         StartCoroutine(SpawnAnEnemy());
-        TimeController.instance.BeginTimer();
+        //TimeController.instance.BeginTimer();
     }
 
     IEnumerator SpawnAnEnemy()
@@ -30,11 +30,12 @@ public class EnemySpawner : MonoBehaviour
         {
             Instantiate(enemies[Random.Range(0, 5)], spawnPos, Quaternion.identity);
         }
-        if((TimeController.instance.elapsedTime < 299) && (TimeController.instance.elapsedTime > 300))
+        if((TimeController.instance.elapsedTime < 300) && (TimeController.instance.elapsedTime > 299))
         {
             Instantiate(enemies[enemies.Length-1], spawnPos, Quaternion.identity);
         }
         yield return new WaitForSeconds(time);
+        Debug.Log(TimeController.instance.elapsedTime);
         StartCoroutine(SpawnAnEnemy());
     }
     

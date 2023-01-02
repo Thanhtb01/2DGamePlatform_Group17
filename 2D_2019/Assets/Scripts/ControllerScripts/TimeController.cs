@@ -20,12 +20,12 @@ public class TimeController : MonoBehaviour
     {
         timeCounter.text = "00 : 00";
         timerGoing = false;
+        BeginTimer();
     }
     public void BeginTimer()
     {
         timerGoing = true;
         elapsedTime = 0f;
-
         StartCoroutine(UpdateTimer());
     }
 
@@ -45,9 +45,5 @@ public class TimeController : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

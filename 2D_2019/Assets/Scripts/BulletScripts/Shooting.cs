@@ -29,18 +29,22 @@ public class Shooting : MonoBehaviour
         if (player.damageIncrease <= 10)
         {
             Shoot(0);
+            FindObjectOfType<AudioManager>().Play("Bullet1");
         }
         else if(player.damageIncrease <= 15)
         {
             Shoot(1);
+            FindObjectOfType<AudioManager>().Play("Bullet2");
         }
         else if (player.damageIncrease <= 20)
         {
-            Shoot(2);   
+            Shoot(2);
+            FindObjectOfType<AudioManager>().Play("Bullet3");
         }
         else 
         { 
             Shoot(bulletPrefab.Length-1);
+            FindObjectOfType<AudioManager>().Play("Bullet2");
         }
     }
     

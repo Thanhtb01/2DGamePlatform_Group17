@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 8468283154058209511}
   - component: {fileID: 7140483726938006277}
   m_Layer: 0
-  m_Name: Boss (1)
+  m_Name: Boss
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1748753487
-  m_SortingLayer: -1
+  m_SortingLayer: -2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: a1dfdd9dc1feabd4abb2159af16a41af, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -156,7 +156,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2530e1d1f22ebc34a97248beed2cd229, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  nameEnemy: Boss
+  health: 250
   damage: 5
   dropItemPrefab: {fileID: 381232830010375296, guid: 7cfd2382cb767df46bd93e5ea802f0c0,
     type: 3}

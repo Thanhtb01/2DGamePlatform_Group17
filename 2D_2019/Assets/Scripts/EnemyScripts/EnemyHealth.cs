@@ -5,12 +5,14 @@ using UnityEngine;
 public class EnemyHealth : MonoBehaviour
 {
     private Animator anim;
+    public string nameEnemy = "Enemy";
     // Start is called before the first frame update
     public int health = 100;
     //[SerializeField] GameObject hitEffect;
     public int damage = 2;
     [SerializeField] GameObject dropItemPrefab;
     [SerializeField] [Range(0f, 1f)] float chance = 1f;
+
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -34,6 +36,10 @@ public class EnemyHealth : MonoBehaviour
         {
             Transform t = Instantiate(dropItemPrefab).transform;
             t.position = transform.position;
+        }
+        if (nameEnemy == "Boss")
+        {
+            GameManager.instance.VictoryUI();
         }
 
     }

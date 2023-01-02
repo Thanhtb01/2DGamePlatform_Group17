@@ -33,6 +33,7 @@ public class Level : MonoBehaviour
         {
             experience -= TO_LEVEL_UP;
             level += 1;
+            FindObjectOfType<AudioManager>().Play("LevelUp");
             LevelUpController.instance.OpenPanel();
         }
     }

@@ -18,6 +18,7 @@ public class LoseGame : MonoBehaviour
     {
         loseGameUI.SetActive(true);
         Time.timeScale = 0f;
+        TimeController.instance.EndTimer();
         //gameIsLose = true;
         gameObject.GetComponent<PauseMenu>().enabled = false;
     }
@@ -25,5 +26,14 @@ public class LoseGame : MonoBehaviour
     {
         SceneManager.LoadScene("Playgame");
         Time.timeScale = 1f;
+        TimeController.instance.BeginTimer();
+
+    }
+    public void RestartGame2()
+    {
+        SceneManager.LoadScene("MapGame2");
+        Time.timeScale = 1f;
+        TimeController.instance.BeginTimer();
+
     }
 }

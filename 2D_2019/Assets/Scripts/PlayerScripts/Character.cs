@@ -48,6 +48,7 @@ public class Character : MonoBehaviour
         }
         currentHealth -= damage;
         impulseSource.GenerateImpulse();
+        FindObjectOfType<AudioManager>().Play("PlayerHurt");
         healthBar.SetHealth(currentHealth);
     }
 

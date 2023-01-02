@@ -14,6 +14,8 @@ TagManager:
   - forceground
   - item
   - updateOpt
+  - specialSkill
+  - gui
   layers:
   - Default
   - TransparentFX
@@ -65,6 +67,9 @@ TagManager:
     locked: 0
   - name: Enemy
     uniqueID: 1748753487
+    locked: 0
+  - name: FrontMap
+    uniqueID: 1083475379
     locked: 0
   - name: Default
     uniqueID: 0

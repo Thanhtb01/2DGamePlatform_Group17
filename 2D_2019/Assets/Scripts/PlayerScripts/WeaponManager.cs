@@ -6,6 +6,8 @@ public class WeaponManager : MonoBehaviour
 {
     [SerializeField] GameObject [] skillSpecials;
     private Level lv;
+    private bool activeSkill = false;
+    private bool activeForceField = false;
     private void Start()
     {
         lv = GetComponent<Level>();
@@ -14,14 +16,46 @@ public class WeaponManager : MonoBehaviour
             skill.SetActive(false);
         }
     }
-    private void Update()
+    public void setFrameSkill()
     {
-        for(int i = 1; i <= skillSpecials.Length; i++)
+        if(activeSkill == false)
         {
-            if (lv.level > 3*i)
-            {
-                skillSpecials[i-1].SetActive(true);
-            }
+            skillSpecials[1].SetActive(true);
+            activeSkill = true;
+        }
+        else
+        {
+            skillSpecials[1].GetComponent<SkillSpecial>().timeToAttack /= 1.1f;
         }
     }
+    public void setForceFieldSkill()
+    {
+        if (activeForceField == false)
+        {
+            skillSpecials[0].SetActive(true);
+            activeForceField = true;
+        }
+        else
+        {
+            skillSpecials[0].GetComponent<forceFieldScript>().damage += 5;
+        }
+    }
+    //public void updateForceFieldSkill()
+    //{
+    //    skillSpecials[1].GetComponent<forceFieldScript>().damage += 5;
+    //}
+    //public void updateFrameSkill()
+    //{
+    //    skillSpecials[1].GetComponent<SkillSpecial>().timeToAttack /= 1.1f;
+    //}
+    //private void Update()
+    //{
+    //    for(int i = 1; i <= skillSpecials.Length; i++)
+    //    {
+    //        if (lv.level > 3*i)
+    //        {
+    //            skillSpecials[i-1].SetActive(true);
+    //        }
+    //    }
+    //}
 }

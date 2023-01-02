@@ -10,12 +10,21 @@ public class UpDamage : MonoBehaviour
     {
         if (PlayerController.instance.getCoin() >= gameObject.GetComponent<UpdateLv>().optionUpdate.coin)
         {
-            PlayerController.instance.IncreaseDamage();
+            PlayerController.instance.increaseDamage();
             PlayerController.instance.DecreaseCoin(gameObject.GetComponent<UpdateLv>().optionUpdate.coin);
             updated = true;
         }
-
-        LevelUpController.instance.ClosePanel();
-
+        if (updated == true)
+        {
+            LevelUpController.instance.ClosePanel();
+        }
+        else
+        {
+            LevelUpController.instance.setTextChooseFail();
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                LevelUpController.instance.ClosePanel();
+            }
+        }
     }
 }

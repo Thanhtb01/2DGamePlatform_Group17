@@ -7,7 +7,7 @@ public class forceFieldScript : MonoBehaviour
 {
     [SerializeField] float timeToAttack;
     float timer;
-    [SerializeField] int damage = 10;
+    public int damage = 5;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Enemy")
@@ -31,6 +31,7 @@ public class forceFieldScript : MonoBehaviour
     
     private void ForceFieldActive(Collider2D col)
     {
+        Debug.Log(damage);
         col.GetComponent<EnemyHealth>().health -= (damage + PlayerController.instance.increaseDamage());
         col.GetComponent<Animator>().SetTrigger("Hurt");
     }

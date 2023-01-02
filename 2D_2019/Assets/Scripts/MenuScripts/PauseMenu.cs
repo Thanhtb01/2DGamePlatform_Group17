@@ -35,22 +35,33 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
+        GameObject.FindGameObjectWithTag("gui").GetComponent<AudioManager>().Play("ClickButton");
+
         GameIsPause = false;
     }
     
     public void LoadMenu()
     {
         SceneManager.LoadScene("Menu");
+        GameObject.FindGameObjectWithTag("gui").GetComponent<AudioManager>().Play("ClickButton");
+
+
     }
     public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        Debug.Log(SceneManager.GetActiveScene().buildIndex);
+        GameObject.FindGameObjectWithTag("gui").GetComponent<AudioManager>().Play("ClickButton");
+
         Time.timeScale = 1f;
         GameIsPause = false;
     }
     public void QuitGame()
     {
         Debug.Log("QUIT");
+        GameObject.FindGameObjectWithTag("gui").GetComponent<AudioManager>().Play("ClickButton");
+
+
         Application.Quit();
     }
 }

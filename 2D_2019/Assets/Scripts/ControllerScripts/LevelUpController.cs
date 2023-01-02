@@ -33,6 +33,6 @@ public class LevelUpController : MonoBehaviour
     }
     public void setTextChooseFail()
     {
-        lvPanel.GetComponent<LevelUpPanner>().chooseTxt.text = "You don't have enough coins";
+        lvPanel.GetComponent<LevelUpPanner>().chooseTxt.text = "You don't have enough coins, Choose other upgrade options or SPACE to exit";
     }
 }

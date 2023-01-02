@@ -32,6 +32,7 @@ public class PickUp : MonoBehaviour
             {
                 GameObject.FindGameObjectWithTag("player").GetComponent<PassiveItems>().Equip(item);
             }
+            FindObjectOfType<AudioManager>().Play("CollectItem");
             Destroy(effect, 0.3f);
 
         }

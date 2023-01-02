@@ -20,13 +20,25 @@ public class Bullet : MonoBehaviour
             ForceFieldActive(collision);
             gameObject.GetComponent<Collider2D>().enabled = damageActive;
             gameObject.GetComponent<SpriteRenderer>().enabled = damageActive;
+            if(gameObject.tag != "specialSkill")
+            {
+                FindObjectOfType<AudioManager>().Play("BulletExposion");
+
+            }
+
         }
-        if(collision.tag == "forceground")
+        if (collision.tag == "forceground")
         {
             effect.ShootEffect();
             gameObject.GetComponent<Collider2D>().enabled = damageActive;
             gameObject.GetComponent<SpriteRenderer>().enabled = damageActive;
-            if(damageActive == false)
+            if (gameObject.tag != "specialSkill")
+            {
+                FindObjectOfType<AudioManager>().Play("BulletExposion");
+
+            }
+
+            if (damageActive == false)
             {
                 Destroy(gameObject);
             }
