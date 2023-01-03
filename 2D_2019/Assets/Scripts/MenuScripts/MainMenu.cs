@@ -12,7 +12,7 @@ public class MainMenu : MonoBehaviour
     }
     public void PlayGame2()
     {
-        SceneManager.LoadSceneAsync("MapGame2");
+        SceneManager.LoadSceneAsync("Playgame 1");
         Time.timeScale = 1f;
     }
     public void QuitGame()

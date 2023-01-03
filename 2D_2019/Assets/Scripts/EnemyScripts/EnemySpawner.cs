@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+    [SerializeField] GameObject audioManager;
+    [SerializeField] AudioClip bossSound;
     [SerializeField] GameObject[] enemies; 
     private float spawnRadius = 8f;
     private float time = 1.0f;
@@ -33,6 +35,7 @@ public class EnemySpawner : MonoBehaviour
         if((TimeController.instance.elapsedTime < 300) && (TimeController.instance.elapsedTime > 299))
         {
             Instantiate(enemies[enemies.Length-1], spawnPos, Quaternion.identity);
+            audioManager.GetComponent<AudioSource>().clip = bossSound;
         }
         yield return new WaitForSeconds(time);
         Debug.Log(TimeController.instance.elapsedTime);
